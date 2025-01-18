@@ -32,7 +32,7 @@ friends:
   # friendA: //www.baidu.com
   # friendB: //www.google.com
 about:
-  enable: true
+  enable: false
   image: '/intro/bg.jpg'
 # Search for website
 search:
@@ -64,7 +64,7 @@ SEO_title:
 # keywords for site (good for SEO)
 SEO_keywords:
 # main title shown in header image
-main_title: uint8t's Blog
+main_title: uint8t驿站
 # subtitle
 subtitle: Ex. BA7OTA 
 # site haeder image
